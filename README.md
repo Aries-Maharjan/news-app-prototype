@@ -128,5 +128,6 @@ This project is open source.
 
 ## Contact
 
-Your Name - your.email@example.com
+Your Name - ariesmhr@gmail.com
 Project Link: [https://github.com/Aries-Maharjan/news-app-prototype]
+
